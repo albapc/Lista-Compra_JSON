@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <supermercados>
+        <nombre>Dia</nombre>
+        <direccion>Calle Mexico 10</direccion>
+        <poblacion>Vigo</poblacion>
+        <cp>32567</cp>
+        <geolocalizacion>
+            <latitud>40°25'13" N</latitud>
+            <longitud>3°42'21" E</longitud>
+        </geolocalizacion>
+        <secciones>
+            <nombreSeccion>fruteria</nombreSeccion>
+            <productos>
+                <nombreProducto>pera</nombreProducto>
+                <descripcion>pera conferencia</descripcion>
+                <perecedero>true</perecedero>
+                <precio>1.23</precio>
+                <fechaInicioOferta>17/4/2019 5:00 a.m.</fechaInicioOferta>
+                <fechaFinOferta>20/4/2019 8:00 p.m.</fechaFinOferta>
+                <oferta>true</oferta>
+                <comprado>true</comprado>
+                <unidadMedida>kg</unidadMedida>
+                <cantidadAComprar>4</cantidadAComprar>
+            </productos>
+            <productos>
+                <nombreProducto>manzana</nombreProducto>
+                <descripcion>manzana golden</descripcion>
+                <perecedero>true</perecedero>
+                <precio>2.60</precio>
+                <fechaInicioOferta />
+                <fechaFinOferta />
+                <oferta>false</oferta>
+                <comprado>false</comprado>
+                <unidadMedida>kg</unidadMedida>
+                <cantidadAComprar>1</cantidadAComprar>
+            </productos>
+            <productos>
+                <nombreProducto>platano</nombreProducto>
+                <descripcion>platano de Canarias</descripcion>
+                <perecedero>true</perecedero>
+                <precio>0.90</precio>
+                <fechaInicioOferta>28/10/2019 7:50 a.m.</fechaInicioOferta>
+                <fechaFinOferta>01/11/2019 10:00 p.m.</fechaFinOferta>
+                <oferta>true</oferta>
+                <comprado>false</comprado>
+                <unidadMedida>kg</unidadMedida>
+                <cantidadAComprar>7</cantidadAComprar>
+            </productos>
+        </secciones>
+        <secciones>
+            <nombreSeccion>pescaderia</nombreSeccion>
+            <productos>
+                <nombreProducto>bacalao</nombreProducto>
+                <descripcion>bacalao del Pacifico</descripcion>
+                <perecedero>true</perecedero>
+                <precio>7.80</precio>
+                <fechaInicioOferta>15/3/2019 7:00 a.m.</fechaInicioOferta>
+                <fechaFinOferta>30/4/2019 8:00 p.m.</fechaFinOferta>
+                <oferta>true</oferta>
+                <comprado>false</comprado>
+                <unidadMedida>kg</unidadMedida>
+                <cantidadAComprar>1</cantidadAComprar>
+            </productos>
+            <productos>
+                <nombreProducto>percebe</nombreProducto>
+                <descripcion>percebe gallego</descripcion>
+                <perecedero>true</perecedero>
+                <precio>5.74</precio>
+                <fechaInicioOferta />
+                <fechaFinOferta />
+                <oferta>false</oferta>
+                <comprado>false</comprado>
+                <unidadMedida>kg</unidadMedida>
+                <cantidadAComprar>2</cantidadAComprar>
+            </productos>
+            <productos>
+                <nombreProducto>necora</nombreProducto>
+                <descripcion>necora del cantabrico</descripcion>
+                <perecedero>true</perecedero>
+                <precio>10.34</precio>
+                <fechaInicioOferta />
+                <fechaFinOferta />
+                <oferta>false</oferta>
+                <comprado>true</comprado>
+                <unidadMedida>kg</unidadMedida>
+                <cantidadAComprar>1</cantidadAComprar>
+            </productos>
+        </secciones>
+        <secciones>
+            <nombreSeccion>drogueria</nombreSeccion>
+            <productos>
+                <nombreProducto>peine</nombreProducto>
+                <descripcion>peine desenredante</descripcion>
+                <perecedero>false</perecedero>
+                <precio>3.56</precio>
+                <fechaInicioOferta />
+                <fechaFinOferta />
+                <oferta>false</oferta>
+                <comprado>true</comprado>
+                <unidadMedida />
+                <cantidadAComprar>1</cantidadAComprar>
+            </productos>
+            <productos>
+                <nombreProducto>colonia</nombreProducto>
+                <descripcion>agua de colonia</descripcion>
+                <perecedero>true</perecedero>
+                <precio>3.45</precio>
+                <fechaInicioOferta>15/3/2019 6:00 p.m.</fechaInicioOferta>
+                <fechaFinOferta>18/3/2019 8:00 p.m.</fechaFinOferta>
+                <oferta>true</oferta>
+                <comprado>false</comprado>
+                <unidadMedida>ml</unidadMedida>
+                <cantidadAComprar>20</cantidadAComprar>
+            </productos>
+            <productos>
+                <nombreProducto>rimel</nombreProducto>
+                <descripcion>rimel de pestanias</descripcion>
+                <perecedero>true</perecedero>
+                <precio>2.59</precio>
+                <fechaInicioOferta />
+                <fechaFinOferta />
+                <oferta>false</oferta>
+                <comprado>true</comprado>
+                <unidadMedida>ml</unidadMedida>
+                <cantidadAComprar>8</cantidadAComprar>
+            </productos>
+        </secciones>
+    </supermercados>
+    <supermercados>
+        <nombre>Mercadona</nombre>
+        <direccion>Avenida de Madrid 15</direccion>
+        <poblacion>Vigo</poblacion>
+        <cp>22324</cp>
+        <geolocalizacion>
+            <latitud>43°23'56"N</latitud>
+            <longitud>2°44'26"E</longitud>
+        </geolocalizacion>
+        <secciones>
+            <nombreSeccion>carniceria</nombreSeccion>
+            <productos>
+                <nombreProducto>jamon</nombreProducto>
+                <descripcion>jamon serrano</descripcion>
+                <perecedero>true</perecedero>
+                <precio>4.56</precio>
+                <fechaInicioOferta />
+                <fechaFinOferta />
+                <oferta>false</oferta>
+                <comprado>false</comprado>
+                <unidadMedida>g</unidadMedida>
+                <cantidadAComprar>400</cantidadAComprar>
+            </productos>
+            <productos>
+                <nombreProducto>ternera</nombreProducto>
+                <descripcion>filete de ternera</descripcion>
+                <perecedero>true</perecedero>
+                <precio>2.70</precio>
+                <fechaInicioOferta>28/10/2019 7:50 a.m.</fechaInicioOferta>
+                <fechaFinOferta>01/11/2019 10:00 p.m.</fechaFinOferta>
+                <oferta>true</oferta>
+                <comprado>true</comprado>
+                <unidadMedida>kg</unidadMedida>
+                <cantidadAComprar>4</cantidadAComprar>
+            </productos>
+            <productos>
+                <nombreProducto>pollo</nombreProducto>
+                <descripcion>pechuga de pollo</descripcion>
+                <perecedero>true</perecedero>
+                <precio>3.45</precio>
+                <fechaInicioOferta />
+                <fechaFinOferta />
+                <oferta>false</oferta>
+                <comprado>false</comprado>
+                <unidadMedida>kg</unidadMedida>
+                <cantidadAComprar>2</cantidadAComprar>
+            </productos>
+        </secciones>
+        <secciones>
+            <nombreSeccion>panaderia</nombreSeccion>
+            <productos>
+                <nombreProducto>pan</nombreProducto>
+                <descripcion>pan integral</descripcion>
+                <perecedero>true</perecedero>
+                <precio>0.89</precio>
+                <fechaInicioOferta />
+                <fechaFinOferta />
+                <oferta>false</oferta>
+                <comprado>true</comprado>
+                <unidadMedida>g</unidadMedida>
+                <cantidadAComprar>100</cantidadAComprar>
+            </productos>
+            <productos>
+                <nombreProducto>empanadilla</nombreProducto>
+                <descripcion>empanadadilla de jamon</descripcion>
+                <perecedero>true</perecedero>
+                <precio>1.56</precio>
+                <fechaInicioOferta />
+                <fechaFinOferta />
+                <oferta>false</oferta>
+                <comprado>true</comprado>
+                <unidadMedida>g</unidadMedida>
+                <cantidadAComprar>3</cantidadAComprar>
+            </productos>
+            <productos>
+                <nombreProducto>magdalena</nombreProducto>
+                <descripcion>magdalena de desayuno</descripcion>
+                <perecedero>true</perecedero>
+                <precio>2.50</precio>
+                <fechaInicioOferta>28/10/2019 7:50 a.m.</fechaInicioOferta>
+                <fechaFinOferta>01/11/2019 10:00 p.m.</fechaFinOferta>
+                <oferta>true</oferta>
+                <comprado>false</comprado>
+                <unidadMedida>g</unidadMedida>
+                <cantidadAComprar>67</cantidadAComprar>
+            </productos>
+        </secciones>
+        <secciones>
+            <nombreSeccion>lacteos</nombreSeccion>
+            <productos>
+                <nombreProducto>leche</nombreProducto>
+                <descripcion>leche de vaca desnatada</descripcion>
+                <perecedero>true</perecedero>
+                <precio>1.10</precio>
+                <fechaInicioOferta />
+                <fechaFinOferta />
+                <oferta>false</oferta>
+                <comprado>true</comprado>
+                <unidadMedida>ml</unidadMedida>
+                <cantidadAComprar>200</cantidadAComprar>
+            </productos>
+            <productos>
+                <nombreProducto>queso</nombreProducto>
+                <descripcion>queso azul</descripcion>
+                <perecedero>true</perecedero>
+                <precio>3.57</precio>
+                <fechaInicioOferta>15/10/2019 3:00 p.m.</fechaInicioOferta>
+                <fechaFinOferta>31/10/2019 8:00 p.m.</fechaFinOferta>
+                <oferta>true</oferta>
+                <comprado>false</comprado>
+                <unidadMedida>g</unidadMedida>
+                <cantidadAComprar>100</cantidadAComprar>
+            </productos>
+            <productos>
+                <nombreProducto>yogur</nombreProducto>
+                <descripcion>yogur de fresa</descripcion>
+                <perecedero>true</perecedero>
+                <precio>0.80</precio>
+                <fechaInicioOferta />
+                <fechaFinOferta />
+                <oferta>false</oferta>
+                <comprado>true</comprado>
+                <unidadMedida>g</unidadMedida>
+                <cantidadAComprar>5</cantidadAComprar>
+            </productos>
+        </secciones>
+    </supermercados>
+    <supermercados>
+        <nombre>Lidl</nombre>
+        <direccion>Avenida de Florida 30</direccion>
+        <poblacion>Vigo</poblacion>
+        <cp>30452</cp>
+        <geolocalizacion>
+            <latitud>49°25'67"N</latitud>
+            <longitud>6°47'28"E</longitud>
+        </geolocalizacion>
+        <secciones>
+            <nombreSeccion>farmacia</nombreSeccion>
+            <productos>
+                <nombreProducto>tiritas</nombreProducto>
+                <descripcion>tiritas sanitarias</descripcion>
+                <perecedero>false</perecedero>
+                <precio>1.67</precio>
+                <fechaInicioOferta />
+                <fechaFinOferta />
+                <oferta>false</oferta>
+                <comprado>true</comprado>
+                <unidadMedida />
+                <cantidadAComprar>3</cantidadAComprar>
+            </productos>
+            <productos>
+                <nombreProducto>alcohol</nombreProducto>
+                <descripcion>alcohol desinfectante</descripcion>
+                <perecedero>false</perecedero>
+                <precio>2.45</precio>
+                <fechaInicioOferta>02/12/2019 7:50 a.m.</fechaInicioOferta>
+                <fechaFinOferta>31/12/2019 10:00 p.m.</fechaFinOferta>
+                <oferta>true</oferta>
+                <comprado>false</comprado>
+                <unidadMedida>ml</unidadMedida>
+                <cantidadAComprar>20</cantidadAComprar>
+            </productos>
+            <productos>
+                <nombreProducto>crema</nombreProducto>
+                <descripcion>crema solar</descripcion>
+                <perecedero>true</perecedero>
+                <precio>3.78</precio>
+                <fechaInicioOferta />
+                <fechaFinOferta />
+                <oferta>false</oferta>
+                <comprado>true</comprado>
+                <unidadMedida>ml</unidadMedida>
+                <cantidadAComprar>45</cantidadAComprar>
+            </productos>
+        </secciones>
+        <secciones>
+            <nombreSeccion>electronica</nombreSeccion>
+            <productos>
+                <nombreProducto>movil</nombreProducto>
+                <descripcion>movil Android 4G</descripcion>
+                <perecedero>false</perecedero>
+                <precio>345</precio>
+                <fechaInicioOferta />
+                <fechaFinOferta />
+                <oferta>false</oferta>
+                <comprado>false</comprado>
+                <unidadMedida />
+                <cantidadAComprar>1</cantidadAComprar>
+            </productos>
+            <productos>
+                <nombreProducto>horno</nombreProducto>
+                <descripcion>horno pirolitico</descripcion>
+                <perecedero>false</perecedero>
+                <precio>500</precio>
+                <fechaInicioOferta />
+                <fechaFinOferta />
+                <oferta>false</oferta>
+                <comprado>false</comprado>
+                <unidadMedida />
+                <cantidadAComprar>1</cantidadAComprar>
+            </productos>
+            <productos>
+                <nombreProducto>plancha</nombreProducto>
+                <descripcion>plancha de ropa</descripcion>
+                <perecedero>false</perecedero>
+                <precio>30</precio>
+                <fechaInicioOferta>01/02/2019 6:09 p.m.</fechaInicioOferta>
+                <fechaFinOferta>13/03/2019 10:00 p.m.</fechaFinOferta>
+                <oferta>true</oferta>
+                <comprado>true</comprado>
+                <unidadMedida />
+                <cantidadAComprar>1</cantidadAComprar>
+            </productos>
+        </secciones>
+        <secciones>
+            <nombreSeccion>papeleria</nombreSeccion>
+            <productos>
+                <nombreProducto>boligrafo</nombreProducto>
+                <descripcion>boligrafo de color negro</descripcion>
+                <perecedero>false</perecedero>
+                <precio>0.78</precio>
+                <fechaInicioOferta />
+                <fechaFinOferta />
+                <oferta>false</oferta>
+                <comprado>true</comprado>
+                <unidadMedida />
+                <cantidadAComprar>2</cantidadAComprar>
+            </productos>
+            <productos>
+                <nombreProducto>agenda</nombreProducto>
+                <descripcion>agenda escolar 2019/2020</descripcion>
+                <perecedero>false</perecedero>
+                <precio>3.45</precio>
+                <fechaInicioOferta>15/10/2019 3:00 p.m.</fechaInicioOferta>
+                <fechaFinOferta>31/12/2019 8:00 p.m.</fechaFinOferta>
+                <oferta>true</oferta>
+                <comprado>false</comprado>
+                <unidadMedida />
+                <cantidadAComprar>1</cantidadAComprar>
+            </productos>
+            <productos>
+                <nombreProducto>libreta</nombreProducto>
+                <descripcion>libreta de notas</descripcion>
+                <perecedero>false</perecedero>
+                <precio>1.10</precio>
+                <fechaInicioOferta />
+                <fechaFinOferta />
+                <oferta>false</oferta>
+                <comprado>true</comprado>
+                <unidadMedida />
+                <cantidadAComprar>3</cantidadAComprar>
+            </productos>
+        </secciones>
+    </supermercados>
+</root>

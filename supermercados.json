@@ -1,0 +1,409 @@
+{
+    "supermercados": [ 
+        {
+            "nombre": "Dia",
+            "direccion": "Calle Mexico 10",
+            "poblacion": "Vigo",
+            "cp": "32567",
+            "geolocalizacion": {
+                "latitud": "40°25'13\" N",
+                "longitud": "3°42'21\" E"
+            },
+            "secciones": [
+                {
+                    "nombreSeccion": "fruteria",
+                    "productos": [
+                        {
+                            "nombreProducto": "pera",
+                            "descripcion": "pera conferencia",
+                            "perecedero": true,
+                            "precio": "1.23",
+                            "fechaInicioOferta": "17/4/2019 5:00 a.m.",
+                            "fechaFinOferta": "20/4/2019 8:00 p.m.",
+                            "oferta": true,
+                            "comprado": true,
+                            "unidadMedida": "kg",
+                            "cantidadAComprar": 4
+                        },
+                        {
+                            "nombreProducto": "manzana",
+                            "descripcion": "manzana golden",
+                            "perecedero": true,
+                            "precio": "2.60",
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "oferta": false,
+                            "comprado": false,
+                            "unidadMedida": "kg",
+                            "cantidadAComprar": 1
+                        },
+                        {
+                            "nombreProducto": "platano",
+                            "descripcion": "platano de Canarias",
+                            "perecedero": true,
+                            "precio": "0.90",
+                            "fechaInicioOferta": "28/10/2019 7:50 a.m.",
+                            "fechaFinOferta": "01/11/2019 10:00 p.m.",
+                            "oferta": true,
+                            "comprado": false,
+                            "unidadMedida": "kg",
+                            "cantidadAComprar": 7
+                        }
+                    ]
+                },
+                {
+                    "nombreSeccion": "pescaderia",
+                    "productos": [
+                        {
+                            "nombreProducto": "bacalao",
+                            "descripcion": "bacalao del Pacifico",
+                            "perecedero": true,
+                            "precio": "7.80",
+                            "fechaInicioOferta": "15/3/2019 7:00 a.m.",
+                            "fechaFinOferta": "30/4/2019 8:00 p.m.",
+                            "oferta": true,
+                            "comprado": false,
+                            "unidadMedida": "kg",
+                            "cantidadAComprar": 1
+                        },
+                        {
+                            "nombreProducto": "percebe",
+                            "descripcion": "percebe gallego",
+                            "perecedero": true,
+                            "precio": "5.74",
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "oferta": false,
+                            "comprado": false,
+                            "unidadMedida": "kg",
+                            "cantidadAComprar": 2
+                        },
+                        {
+                            "nombreProducto": "necora",
+                            "descripcion": "necora del cantabrico",
+                            "perecedero": true,
+                            "precio": "10.34",
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "oferta": false,
+                            "comprado": true,
+                            "unidadMedida": "kg",
+                            "cantidadAComprar": 1
+                        }
+                    ]
+                },
+                {
+                    "nombreSeccion": "drogueria",
+                    "productos": [
+                        {
+                            "nombreProducto": "peine",
+                            "descripcion": "peine desenredante",
+                            "perecedero": false,
+                            "precio": "3.56",
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "oferta": false,
+                            "comprado": true,
+                            "unidadMedida": null,
+                            "cantidadAComprar": 1
+                        },
+                        {
+                            "nombreProducto": "colonia",
+                            "descripcion": "agua de colonia",
+                            "perecedero": true,
+                            "precio": "3.45",
+                            "fechaInicioOferta": "15/3/2019 6:00 p.m.",
+                            "fechaFinOferta": "18/3/2019 8:00 p.m.",
+                            "oferta": true,
+                            "comprado": false,
+                            "unidadMedida": "ml",
+                            "cantidadAComprar": 20
+                        },
+                        {
+                            "nombreProducto": "rimel",
+                            "descripcion": "rimel de pestanias",
+                            "perecedero": true,
+                            "precio": "2.59",
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "oferta": false,
+                            "comprado": true,
+                            "unidadMedida": "ml",
+                            "cantidadAComprar": 8
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Mercadona",
+            "direccion": "Avenida de Madrid 15",
+            "poblacion": "Vigo",
+            "cp": "22324",
+            "geolocalizacion": {
+                "latitud": "43°23'56\"N",
+                "longitud": "2°44'26\"E"
+            },
+            "secciones": [
+                {
+                    "nombreSeccion": "carniceria",
+                    "productos": [
+                        {
+                            "nombreProducto": "jamon",
+                            "descripcion": "jamon serrano",
+                            "perecedero": true,
+                            "precio": "4.56",
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "oferta": false,
+                            "comprado": false,
+                            "unidadMedida": "g",
+                            "cantidadAComprar": 400
+                        },
+                        {
+                            "nombreProducto": "ternera",
+                            "descripcion": "filete de ternera",
+                            "perecedero": true,
+                            "precio": "2.70",
+                            "fechaInicioOferta": "28/10/2019 7:50 a.m.",
+                            "fechaFinOferta": "01/11/2019 10:00 p.m.",
+                            "oferta": true,
+                            "comprado": true,
+                            "unidadMedida": "kg",
+                            "cantidadAComprar": 4
+                        },
+                        {
+                            "nombreProducto": "pollo",
+                            "descripcion": "pechuga de pollo",
+                            "perecedero": true,
+                            "precio": "3.45",
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "oferta": false,
+                            "comprado": false,
+                            "unidadMedida": "kg",
+                            "cantidadAComprar": 2
+                        }
+                    ]
+                },
+                {
+                    "nombreSeccion": "panaderia",
+                    "productos": [
+                        {
+                            "nombreProducto": "pan",
+                            "descripcion": "pan integral",
+                            "perecedero": true,
+                            "precio": "0.89",
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "oferta": false,
+                            "comprado": true,
+                            "unidadMedida": "g",
+                            "cantidadAComprar": 100
+                        },
+                        {
+                            "nombreProducto": "empanadilla",
+                            "descripcion": "empanadadilla de jamon",
+                            "perecedero": true,
+                            "precio": "1.56",
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "oferta": false,
+                            "comprado": true,
+                            "unidadMedida": "g",
+                            "cantidadAComprar": 3
+                        },
+                        {
+                            "nombreProducto": "magdalena",
+                            "descripcion": "magdalena de desayuno",
+                            "perecedero": true,
+                            "precio": "2.50",
+                            "fechaInicioOferta": "28/10/2019 7:50 a.m.",
+                            "fechaFinOferta": "01/11/2019 10:00 p.m.",
+                            "oferta": true,
+                            "comprado": false,
+                            "unidadMedida": "g",
+                            "cantidadAComprar": 67
+                        }
+                    ]
+                },
+                {
+                    "nombreSeccion": "lacteos",
+                    "productos": [
+                        {
+                            "nombreProducto": "leche",
+                            "descripcion": "leche de vaca desnatada",
+                            "perecedero": true,
+                            "precio": "1.10",
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "oferta": false,
+                            "comprado": true,
+                            "unidadMedida": "ml",
+                            "cantidadAComprar": 200
+                        },
+                        {
+                            "nombreProducto": "queso",
+                            "descripcion": "queso azul",
+                            "perecedero": true,
+                            "precio": "3.57",
+                            "fechaInicioOferta": "15/10/2019 3:00 p.m.",
+                            "fechaFinOferta": "31/10/2019 8:00 p.m.",
+                            "oferta": true,
+                            "comprado": false,
+                            "unidadMedida": "g",
+                            "cantidadAComprar": 100
+                        },
+                        {
+                            "nombreProducto": "yogur",
+                            "descripcion": "yogur de fresa",
+                            "perecedero": true,
+                            "precio": "0.80",
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "oferta": false,
+                            "comprado": true,
+                            "unidadMedida": "g",
+                            "cantidadAComprar": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Lidl",
+            "direccion": "Avenida de Florida 30",
+            "poblacion": "Vigo",
+            "cp": "30452",
+            "geolocalizacion": {
+                "latitud": "49°25'67\"N",
+                "longitud": "6°47'28\"E"
+            },
+            "secciones": [
+                {
+                    "nombreSeccion": "farmacia",
+                    "productos": [
+                        {
+                            "nombreProducto": "tiritas",
+                            "descripcion": "tiritas sanitarias",
+                            "perecedero": false,
+                            "precio": "1.67",
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "oferta": false,
+                            "comprado": true,
+                            "unidadMedida": null,
+                            "cantidadAComprar": 3
+                        },
+                        {
+                            "nombreProducto": "alcohol",
+                            "descripcion": "alcohol desinfectante",
+                            "perecedero": false,
+                            "precio": "2.45",
+                            "fechaInicioOferta": "02/12/2019 7:50 a.m.",
+                            "fechaFinOferta": "31/12/2019 10:00 p.m.",
+                            "oferta": true,
+                            "comprado": false,
+                            "unidadMedida": "ml",
+                            "cantidadAComprar": 20
+                        },
+                        {
+                            "nombreProducto": "crema",
+                            "descripcion": "crema solar",
+                            "perecedero": true,
+                            "precio": "3.78",
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "oferta": false,
+                            "comprado": true,
+                            "unidadMedida": "ml",
+                            "cantidadAComprar": 45
+                        }
+                    ]
+                },
+                {
+                    "nombreSeccion": "electronica",
+                    "productos": [
+                        {
+                            "nombreProducto": "movil",
+                            "descripcion": "movil Android 4G",
+                            "perecedero": false,
+                            "precio": "345",
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "oferta": false,
+                            "comprado": false,
+                            "unidadMedida": null,
+                            "cantidadAComprar": 1
+                        },
+                        {
+                            "nombreProducto": "horno",
+                            "descripcion": "horno pirolitico",
+                            "perecedero": false,
+                            "precio": "500",
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "oferta": false,
+                            "comprado": false,
+                            "unidadMedida": null,
+                            "cantidadAComprar": 1
+                        },
+                        {
+                            "nombreProducto": "plancha",
+                            "descripcion": "plancha de ropa",
+                            "perecedero": false,
+                            "precio": "30",
+                            "fechaInicioOferta": "01/02/2019 6:09 p.m.",
+                            "fechaFinOferta": "13/03/2019 10:00 p.m.",
+                            "oferta": true,
+                            "comprado": true,
+                            "unidadMedida": null,
+                            "cantidadAComprar": 1
+                        }
+                    ]
+                },
+                {
+                    "nombreSeccion": "papeleria",
+                    "productos": [
+                        {
+                            "nombreProducto": "boligrafo",
+                            "descripcion": "boligrafo de color negro",
+                            "perecedero": false,
+                            "precio": "0.78",
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "oferta": false,
+                            "comprado": true,
+                            "unidadMedida": null,
+                            "cantidadAComprar": 2
+                        },
+                        {
+                            "nombreProducto": "agenda",
+                            "descripcion": "agenda escolar 2019/2020",
+                            "perecedero": false,
+                            "precio": "3.45",
+                            "fechaInicioOferta": "15/10/2019 3:00 p.m.",
+                            "fechaFinOferta": "31/12/2019 8:00 p.m.",
+                            "oferta": true,
+                            "comprado": false,
+                            "unidadMedida": null,
+                            "cantidadAComprar": 1
+                        },
+                        {
+                            "nombreProducto": "libreta",
+                            "descripcion": "libreta de notas",
+                            "perecedero": false,
+                            "precio": "1.10",
+                            "fechaInicioOferta": null,
+                            "fechaFinOferta": null,
+                            "oferta": false,
+                            "comprado": true,
+                            "unidadMedida": null,
+                            "cantidadAComprar": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
